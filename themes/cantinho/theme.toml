@@ -1,0 +1,17 @@
+name = 'Cantinho'
+license = 'MIT'
+licenselink = 'https://github.com/theldemendes/cantinho/blob/main/themes/cantinho/LICENSE.txt'
+description = 'Theme made for my personal website Little Corner(cantinho).'
+
+# The home page of the theme, where the source can be found
+homepage = 'https://github.com/theldemendes/cantinho/blob/main/themes/cantinho'
+
+# If you have a running demo of the theme
+demosite = 'https://cantinho.neocities.org/'
+
+# Taxonomy terms
+tags = ['blog', 'personal', 'art']
+
+[author]
+  name = "Thelde Medes - Todi"
+  homepage = "https://cantinho.neocities.org/"
