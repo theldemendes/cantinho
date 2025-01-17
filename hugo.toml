@@ -10,32 +10,18 @@ theme = 'cantinho'
     disabled = false
     languageCode = 'pt-BR'
     languageDirection = 'ltr'
-    languageName = 'Português'
+    languageName = '🇧🇷'
     title = 'Cantinho'
     weight = 1
+
   [languages.en]
     contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
-    languageName = 'English'
+    languageName = '🇺🇸'
     title = 'Little Corner'
     weight = 2
-
-[[menus.main]]
-name = 'Home'
-pageRef = '/'
-weight = 10
-
-[[menus.main]]
-name = 'Posts'
-pageRef = '/posts'
-weight = 20
-
-[[menus.main]]
-name = 'Tags'
-pageRef = '/tags'
-weight = 30
 
 [module]
   [module.hugoVersion]

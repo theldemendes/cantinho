@@ -5,11 +5,12 @@
   {{ partial "head.html" . }}
 </head>
 <body>
-  {{ .Content }}
   <ul>
     {{ range $.Site.Home.AllTranslations }}
     <li><a href="{{ .RelPermalink }}">{{ .Language.LanguageName }}</a></li>
     {{ end }}
-    </ul>
+  </ul>
+  {{ .Content }}
+  <a href="home">{{ i18n "enter" }}</a>
 </body>
 </html>

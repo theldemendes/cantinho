@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+body{
+    background-color: black;
+    font-family: "Barriecito", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.home-title{
+    text-align: center;
+    font-size: 40px;
+    color: wheat;
+}
+
+.home-menu{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.center-window{
+    width: 700px;
+    height: 856px;
+    max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-window-topbar{
+    width: 700px;
+    height: 30px;
+    background: rgb(255,0,204);
+    background: linear-gradient(90deg, rgba(255,0,204,1) 57%, rgba(170,0,255,1) 100%);
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    -webkit-border-top-left-radius: 10px;
+    -webkit-border-top-right-radius: 10px;
+    -moz-border-radius-topleft: 10px;
+    -moz-border-radius-topright: 10px;
+}
+
+.center-window-content{
+    width: 700px;
+    height: 500px;
+    background: linear-gradient(180deg, rgba(43,43,43,1) 0%, rgba(18,18,18,1) 100%);
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    -webkit-border-bottom-right-radius: 10px;
+    -webkit-border-bottom-left-radius: 10px;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+}
