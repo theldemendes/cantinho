@@ -13,4 +13,4 @@ Este repositório contém:
 2. **Artes e Recursos Visuais**  
    As artes, imagens e outros recursos visuais utilizados no site **não estão licenciados como open-source** e permanecem propriedade exclusiva de seus criadores. Esses recursos não podem ser usados, copiados, distribuídos ou modificados sem permissão explícita.
 
-Se você tiver dúvidas sobre o uso do conteúdo deste repositório, entre em contato: pelo e-mail theldemendescontato@gmail.com
+Se você tiver dúvidas sobre o uso do conteúdo deste repositório, entre em contato pelo e-mail theldemendescontato@gmail.com
